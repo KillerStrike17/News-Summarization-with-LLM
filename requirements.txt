@@ -1,0 +1,3 @@
+newsapi-python
+openai
+langchain
